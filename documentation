@@ -1,0 +1,12 @@
+This task was given during the on going HNG intenship to add a new feature of interest calculator into Piggyvest plateform.
+Out team made up of frontend and backend decided to work on the investment page. We undertand that not all user can easily calculate how much 
+yield their money will bring at the end of a certain period. We decided to integegrate calculator in each field of investement opportunity.
+
+Technology Used:
+The frontend was HTML, CSS and Boostrap While the  back was ASP.Net MVC
+
+What we achieved:
+We were able to make it possible for a user to quickly know how much he or she is expecting if he invest.
+We were able to loop out calclulator at every investment filed.
+The calculator could pick the rate, period, while the user input the amout and get his interest.
+
